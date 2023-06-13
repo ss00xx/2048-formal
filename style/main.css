@@ -347,7 +347,7 @@ hr {
   .tile.tile-8 .tile-inner {
     color: rgba(0,0,0,0);
     background: #f2b179; 
-    background-image: url("img/03.jpeg");
+    background-image: url("img/15.jpeg");
     background-position: center center;
     background-size: cover;
 }
@@ -361,7 +361,7 @@ hr {
   .tile.tile-32 .tile-inner {
     color: rgba(0,0,0,0);
     background: #f67c5f; 
-    background-image: url("img/05.jpeg");
+    background-image: url("img/14.jpeg");
     background-position: center center;
     background-size: cover;
 }
